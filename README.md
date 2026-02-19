@@ -71,7 +71,7 @@ Loop นี้จะทำงานจนกว่าข้อมูลจะส
 
 ถ้าไม่สมดุล:
 
-append_to_state → judge_feedback
+append_to_state to judge_feedback
 
 ถ้าสมดุล:
 
